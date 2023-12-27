@@ -13,4 +13,3 @@ jobs:
       contents: write
     with:
       shortBoardName: scg-ecu2.0
-      iniFileName: scg-ecu2.0.ini
